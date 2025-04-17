@@ -1,4 +1,6 @@
-### Olá! Eu sou o Oscar Donizete 🤙
+### Olá! Eu sou o Oscar Donizete🤙
+🌱 Sou apaixonado por tecnologia aplicada à agricultura  
+💻 Uso a programação como ferramenta para automatizar processos, criar soluções e desenvolver projetos que conectam o campo à inovação
 
 #### 🔗 Contato 
 [![WhatsApp](https://img.shields.io/badge/whatsapp-%2300C853.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515998456600)
@@ -7,7 +9,17 @@
 
 ![Oscar Donizete GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscar-lang-cmd&show_icons=true&theme=radical)
 
-## Tecnologias que uso no meu dia 
+## 🚀 Tecnologias e Ferramentas  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+
+
+
+
+  
+
+
+
+
+
