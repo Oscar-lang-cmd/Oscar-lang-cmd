@@ -2,7 +2,7 @@
 🌱 Sou apaixonado por tecnologia aplicada à agricultura  
 💻 Uso a programação como ferramenta para automatizar processos, criar soluções e desenvolver projetos que conectam o campo à inovação
 
-#### 🔗 Contato 
+#### 🔗 Contatos 
 [![WhatsApp](https://img.shields.io/badge/whatsapp-%2300C853.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515998456600)
 [![Email](https://img.shields.io/badge/email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscar45@estudante.ufscar.br)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-donizete-costa-de-meira/)
